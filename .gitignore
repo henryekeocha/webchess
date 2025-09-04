@@ -3,6 +3,7 @@
 *.log
 .vscode/
 .idea/
+.local/
 
 # Python
 __pycache__/
