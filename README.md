@@ -2,8 +2,6 @@
 
 A modern, full-featured chess application built with React, TypeScript, and Express.js. Features include intelligent AI opponents with multiple difficulty levels, complete chess rule enforcement, move history tracking, and game review functionality.
 
-![Chess Master Screenshot](https://via.placeholder.com/800x600/f8f9fa/343a58?text=Chess+Master+Game)
-
 ## 🎯 Features
 
 ### Core Gameplay
@@ -416,12 +414,6 @@ npm run lint
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🆘 Support
 
 ### Getting Help
@@ -453,5 +445,3 @@ When reporting issues, please include:
 ---
 
 **Enjoy playing Chess Master! 🏆**
-
-For the latest updates and features, check the [GitHub repository](repository-url).
